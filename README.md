@@ -1,2 +1,7 @@
-# TP_ML_Aiasa_Fassanelli_Palmieri
-TP 2023 - MACHINE LEARNING
+# TP 2023 - MACHINE LEARNING
+
+### Integrantes:
+- Aiassa, Alejandro
+- Fassanelli, Pedro
+- Palmieri, Ignacio
+
